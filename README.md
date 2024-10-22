@@ -1,0 +1,2 @@
+# detail
+Знакомство с GitHub
